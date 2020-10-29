@@ -3,12 +3,12 @@
 
 # VSCODE_SPIDER
 vscode编辑roboFramework示例及配置详解
+1.在本地安装python环境
+2.在本地安装robotframework
+3.vscode安装python插件
+4.vscode安装robotframework插件
 
 
-1.确保本地已经安装了python环境(最好使用python3)
-  python --version
-2.安装robotFramework框架
-  pip install robotframework
    
 
   

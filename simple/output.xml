@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.2.2 (Python 3.7.0 on win32)" generated="20201030 00:43:22.017" rpa="false">
+<suite id="s1" name="Hello World1" source="D:\VSCODE_SPIDER\simple\hello_world1.robot">
+<test id="s1-t1" name="JP-case-1">
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>hello world</arg>
+</arguments>
+<status status="PASS" starttime="20201030 00:43:22.051" endtime="20201030 00:43:22.051"></status>
+</kw>
+<status status="PASS" starttime="20201030 00:43:22.050" endtime="20201030 00:43:22.052" critical="yes"></status>
+</test>
+<status status="PASS" starttime="20201030 00:43:22.020" endtime="20201030 00:43:22.053"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0">Critical Tests</stat>
+<stat pass="1" fail="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" id="s1" name="Hello World1">Hello World1</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

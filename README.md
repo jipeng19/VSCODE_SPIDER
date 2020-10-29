@@ -17,6 +17,10 @@
 pip install robotframework --安装robotframework  
 python -m robot.run xxx.robot --在命令行直接执行某测试用例  
 
+--robotframework requestLibrary第三方类库引用  
+pip install -U requests  
+pip install -U robotframework-requests  
+
 # 参考资料
 https://robotframework.org/
 

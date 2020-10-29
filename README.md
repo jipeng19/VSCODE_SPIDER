@@ -20,6 +20,9 @@ python -m robot.run xxx.robot --在命令行直接执行某测试用例
 # 参考资料
 https://robotframework.org/
 
+# 常见问题
+[ ERROR ] Suite 'xxx.robot' contains no tests or tasks  --请检查xxx.robot文件是否保存
+
 
    
 

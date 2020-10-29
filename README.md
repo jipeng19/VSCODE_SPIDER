@@ -23,7 +23,10 @@ pip install -U requests
 pip install -U robotframework-requests    
 
 --安装robotframework-seleniumlibrary第三方类库  
---主要用于web自动化测试  
+--主要用于web页面自动化测试
+--实现这些用例对测试人员的要求比较高（测试人员需要能看的懂前端代码，目前前端主流的开发框架是vue）
+--web页面自动化测试麻烦的地方在于元素定位，目前网上介绍的各种不通过阅读源码的定位方式均不太靠谱
+--如果测试人员熟练使用vue，轻松阅读前端代码，那么元素定位将不再是什么难事
 pip install robotframework-seleniumlibrary    
 
 # 参考资料
